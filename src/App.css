@@ -1,0 +1,10 @@
+.icon_box {
+  width: 50px !important;
+  height: 50px;
+  background-color: #212529;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
